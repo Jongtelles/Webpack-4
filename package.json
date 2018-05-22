@@ -4,7 +4,7 @@
   "description": "webpack tutorial",
   "main": "index.js",
   "scripts": {
-    "dev": "webpack-dev-server --mode development --open",
+    "dev": "webpack-dev-server --hot",
     "build": "webpack --mode production"
   },
   "repository": {
